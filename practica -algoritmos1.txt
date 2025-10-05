@@ -1,0 +1,5 @@
+Problemática:
+El usuario quiere saber ¿Cuantas letras tiene una palabra?
+
+Algoritmo:
+
